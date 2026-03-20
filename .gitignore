@@ -1,0 +1,64 @@
+.DS_Store
+# macOS
+.DS_Store
+
+# Xcode build data
+build/
+DerivedData/
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Xcode workspace user settings
+*.xcworkspace/xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.lock
+
+# App signing
+*.p12
+*.mobileprovision
+*.cer
+
+# Xcode automatic files
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# iOS simulator
+*.simruntime
+*.simdevice
+
+# Local environment files
+.env
